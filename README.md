@@ -96,19 +96,19 @@ A 3-phase end-to-end analytics project on **100,000 Starbucks orders** — progr
 ### Phase 2 — 4 Multi-Panel Dashboards
 
 #### 📊 Dashboard 1 — Executive Overview
-![Executive Dashboard](charts/phase1/01_executive_dashboard.png)
+![Executive Dashboard](charts/phase%201/01_executive_dashboard.png)
 KPI cards (100K orders · $1.49M revenue · 14,988 customers · $14.87 AOV · 3.69★ · 47.7% rewards) | Revenue by Region — West leads $0.34M | Drink Category Mix — near-equal 6-way split | Order Volume by Hour — sharp peak at 7 AM (10,200+ orders)
 
 #### 👥 Dashboard 2 — Customer Behaviour
-![Customer Behaviour](charts/phase1/02_customer_behaviour.png)
+![Customer Behaviour](charts/phase%201/02_customer_behaviour.png)
 Rewards vs Non-Rewards avg spend ($15.72 vs $14.09 · +11.6% uplift) | Orders by Channel — Mobile App 42,521 · Drive-Thru 27,996 · In-Store 22,063 · Kiosk 7,420 | Satisfaction by Drink (all ~3.69) | Age Group 25–34 leads 30K orders | Fulfillment Mean 4.5 min | Order Ahead vs Walk-in comparison
 
 #### 🕐 Dashboard 3 — Time & Location Patterns
-![Time Location](charts/phase1/03_time_location_patterns.png)
+![Time Location](charts/phase%201/03_time_location_patterns.png)
 Avg Spend Heatmap Day×Hour | Orders by Day — Saturday peaks at 14,443 | Revenue by Store Type — Suburban $0.53M · Urban $0.48M · Rural $0.47M | Cart Size Distribution — avg 3.7 items
 
 #### 🌍 Dashboard 4 — Regional & Demographic Breakdown
-![Regional Demographic](charts/phase1/04_regional_demographic.png)
+![Regional Demographic](charts/phase%201/04_regional_demographic.png)
 Drink Mix by Region % — near-equal across all 5 regions | Customizations vs Satisfaction bubble chart — more customizations = slightly higher satisfaction | Avg Spend by Gender & Rewards — Rewards members spend ~$2 more across all genders
 
 ---
